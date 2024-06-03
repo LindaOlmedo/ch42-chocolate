@@ -1,0 +1,30 @@
+
+/* CSS type selector */
+body {
+    background-color: rgb(74, 108, 145);
+    color:rgb(214, 211, 236);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: #fa4f7c;
+    color: rgb(66, 55, 55);
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* CSS type selector: pseudo class selector */
+button:hover {
+    background-color: rgb(221, 241, 214);
+}
+body h1 {
+    color: #BFA9E3;
+    font-family: monospace;
+}
+body h2, h3, h4, h5, h6 {
+    color: #e2b627;
+}
+body a :target {
+    color: #ced9f1;
+}
