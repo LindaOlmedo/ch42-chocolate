@@ -1,7 +1,7 @@
 
 /* CSS type selector */
 body {
-    background-color: rgb(74, 108, 145);
+    background-color: rgb(206, 34, 34);
     color:rgb(214, 211, 236);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -24,7 +24,7 @@ body h1 {
 }
 body h2, h3, h4, h5, h6 {
     color: #e2b627;
-}
+}955
 body a :target {
     color: #ced9f1;
 }
